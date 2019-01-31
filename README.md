@@ -1,4 +1,4 @@
-This is a Ruby on Rails project for The Hacking Project done by Maxime Crespo and Jules Couturaud.
+This is a Ruby on Rails project for The Hacking Project done by willyspa
 
     Ruby version : 2.5.1
 
